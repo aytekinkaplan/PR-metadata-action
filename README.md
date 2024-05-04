@@ -1,2 +1,2 @@
 # PR-metadata-action
-##SEE NEW ACTOIN
+##SEE NEW ACTION
